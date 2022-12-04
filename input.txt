@@ -1,0 +1,149 @@
+#Puzzle1
+#.....O..Z..OAAZ..O..BPPP..B.CC.DD...
+
+#Puzzle2
+.OOOZZ..BPPP..BAAC.....CQQQRRR......
+
+#Puzzle3
+ZZOOOP....BP.AA.BP....CC............
+
+#Puzzle4
+..O.....O...AAO.........PPPZB.QQQZB. P0 O5
+
+#Puzzle5
+ZZ.......BBCAA.D.C...D....OOO.......
+
+#Puzzle6
+...OOO...PPPAA.ZB....ZB.....C.....C.
+
+#Puzzle7
+.Z.OOO.ZB.C.AAB.C.....DD............
+
+#Puzzle8
+..ZOOO..ZB...AAB..PPPC.Q...C.Q.....Q
+
+#Puzzle9
+...ZZO....BO..AABOP.....P.CCDDP.....
+
+#Puzzle10
+.OPPPZ.O...Z.OAABC....BC.QQQDD......
+
+#Puzzle11
+.....O.....OAA.P.OQ..PZZQ..PBBQ.RRR.
+
+#Puzzle12
+ZZ.O.....OBCAA.OBC...DD..........EE.
+
+#Puzzle13
+...OZZ...OBC.AAOBC..DDP.....P.....P.
+
+#Puzzle 14
+...OZZ...OBPAA.OBP.QQQRP....R.....R.
+
+#Puzzle 15
+.Z.OOO.Z.BC.AA.BC.....D..PPPD.......
+
+#Puzzle 16
+..........ZO..AAZO..PBBO..PCDD..PC..
+
+#Puzzle 17
+O.ZZBBO....POAA.CPD...CPD...E.....E.
+
+#Puzzle 18
+.OZ....OZ.BB.OAAC.....C.....D.EE..D.
+
+#Puzzle 19
+..OZZP..OBCPAAOBCP...Q.....Q.....Q..
+
+#Puzzle 20
+OOO..P.....PAA...PQRRRZZQ.....Q..... Q7 O2
+
+#Puzzle 21
+...ZZ......BAA..CB....C....OOO......
+
+#Puzzle 22
+..OOOP..ZZBP..AABP...QCC...Q.....Q..
+
+#Puzzle 23
+.....O..PPPO.AAZ.O...Z....BCDD..BC..
+
+#Puzzle 24
+...Z....OZ..AAOB....OB.........CC...
+
+#Puzzle 25
+.O..P..O..P..OAAP.........ZBCCDDZB..
+
+#Puzzle 26
+.....O.....OAA...OP.....PQQQZZP.....
+
+#Puzzle 27
+.OZ....OZ.BB.OAACP....CP....DP....D.
+
+#Puzzle 28
+....Z.....ZBAA..CB.O..C..ODDEE.O....
+
+#Puzzle 29
+ZBB...Z.C.O.AACDOE...DOE.FGG.H.F...H
+
+#Puzzle 30
+...OOO...ZBBAA.Z.C...D.C...DEE...... Z8 O2
+
+#Puzzle 31
+.....O.....OAAZ.BO..Z.B.CPPPDDC.....
+
+#Puzzle 32
+OZBCC.OZB...OAADE.FFGDE...GHII.JJH..
+
+#Puzzle 33
+.OZB...OZBCC.OAAD.....D.....E.....E.
+
+#Puzzle 34
+O..PPPO.ZZ..OAAB..C..B..CQQQ........
+
+#Puzzle 35
+.ZO.BB.ZO.C.AAO.CPQQQ.DP..EEDP....FF
+
+#Puzzle 36
+OOOZ...BBZCCAAD.....D..PEFFGGPE....P
+
+#Puzzle 37
+.O..PQ.O..PQ.OAAPQ...Z.....ZBB......
+
+#Puzzle 38
+Z.O...Z.O...AAO........PQQQBCP...BCP
+
+#Puzzle 39
+...OZP...OZPAA.OBP.QQQB....RRR......
+
+#Puzzle 40
+..ZZBB..CCDDAA..EF....EFGGOOO....... G4 O6
+
+#Puzzle 41
+ZBBCCDZ....D..EAAF..EGGF...HII...H..
+
+#Puzzle 42
+...Z....BZC.AABDC....D..............
+
+#Puzzle 43
+.....O...ZZOAA.PBO...PB....PC..QQQC.
+
+#Puzzle 44
+...O..PPPO..AA.OZ.....Z.QQQBBC.....C
+
+#Puzzle 45
+..ZBCC..ZBDDAAEF...OEF...OGGH..O..H.
+
+#Puzzle 46
+...OZZ...O..AA.O.B...CCB...PPP...DD.
+
+#Puzzle 47
+.OOOPQ...ZPQAA.ZPQ.R.BB..R.....R....
+
+#Puzzle 48
+ ZZBBCC.....DAA...D.......OOOEE......
+
+#Puzzle 49
+..ZOOO..ZPPP..AAB.....B.CCQQQ.......
+
+#Puzzle 50
+ZOOOBBZ.....AA...C.....CPPPQQQ...... O8
